@@ -10,4 +10,4 @@
 5. convert data to number.<br>
 6. train. <br>
 ## Visualization data<br>
-![plot](https://github.com/tranhuuan170302/building-model-predict-campaign-telemarketing-banking-marketing-direct-/blob/main/dashboard.PNG)
+![plot](https://github.com/tranhuuan170302/demoCV/blob/main/dataPredict.jpg)
