@@ -11,4 +11,4 @@
 5. convert data to number.<br>
 6. train. <br>
 ## Visualization data<br>
-![plot](https://github.com/tranhuuan170302/demoCV/blob/main/dataPredict.jpg)
+![plot](https://github.com/tranhuuan170302/demoCV/blob/main/modelpredict.jpg)
